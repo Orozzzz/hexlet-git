@@ -1,3 +1,3 @@
-git awesome!
-new line
-add new content
+new text
+test
+experiment with amend
